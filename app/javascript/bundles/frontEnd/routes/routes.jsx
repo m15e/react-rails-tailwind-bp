@@ -1,6 +1,4 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom'
-import * as paths from '../constants/paths'
 import Main from '../pages/Main'
 import Demo from '../pages/Demo'
 

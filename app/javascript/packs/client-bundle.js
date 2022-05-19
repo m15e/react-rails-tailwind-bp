@@ -1,5 +1,4 @@
 import ReactOnRails from 'react-on-rails'
-
 import Main from '../bundles/frontEnd/pages/Main'
 import Demo from '../bundles/frontEnd/pages/Demo'
 
