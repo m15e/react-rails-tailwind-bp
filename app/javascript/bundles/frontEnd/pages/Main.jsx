@@ -1,7 +1,7 @@
 import React from 'react'
 
-const Main = () => {
-  return (
+const Main = (_props, railsContext) => {
+  return () => (
     <div>Main</div>
   )
 }
